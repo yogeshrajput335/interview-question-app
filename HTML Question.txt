@@ -1,0 +1,12 @@
+1) html image map?
+2)copyright symbol?
+3)Why is a URL encoded in HTML?
+HTML Graphics
+1) What is the purpose of using alternative texts in images?
+2)Why is a URL encoded in HTML?
+3) Explain LocalStorage And SessionStorage Objects?
+4)When is it appropriate to use frames?
+5) Are there instances where the text will appear outside of the browser?
+6)What is the advantage of grouping several checkboxes together?
+7)textfieldsize?
+

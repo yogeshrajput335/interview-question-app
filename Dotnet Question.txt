@@ -1,0 +1,40 @@
+1)difference between late &early binding? DONE
+2)what are partial classes in c#? DONE
+3)what is reflection in c#? DONE
+4)why developer use c#?  DONE
+5)what is mean of deligates? -
+6)what is managed or unmanged code? DONE
+7)how to calculate launguage is come under managed/unmanaged code? DONE
+8)what is wrapper classes? DONE
+9)what is constructor chaining? DONE
+10)where to use XML comment?is it necessary? DONE
+11)what are value type &reference type? DONE
+12)why we use exception? DONE
+13)what is struct? DONE
+14)what is console application? DONE
+15)explain DLL? DONE
+
+1)what is arraylist and dynamic array?
+2)what is collection?
+3)what is lock statement in c#?
+4)what is serialization?
+5)concrete method?
+6)What is the difference between dispose() and finalize() methods in C#?
+7)What is object pool in .Net?
+8)what is garbage collection? DONE
+
+9)what is destructor? DONE
+10) what is common launguage runtime? DONE
+11)what is jit compiller process? DONE
+
+1)what is mean by sealedclass?
+2)what is StreamReader/StreamWriter class?
+3)what is collection?
+4)define parsing?
+5)Distinguish between System.String and System.Text.StringBuilder classes?
+6)Define thread? Explain about Multithreading?
+7)Explain Synchronous and Asynchronous Operations?
+8)Explain Async and Await?
+9)Explain Publishers and Subscribers in Events.
+10)What is a Deadlock?
+11)) What is an XSD file?
