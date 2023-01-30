@@ -1,7 +1,7 @@
 RXJS
 
 1) Meaning of "Is not delivered because it would violate the contract".
-2)what is subscription? DONE
-2.1) Disposable?
-3)what is subject? DONE
-4)with the help of unicast  observable where to pass notification?
+2) what is subscription? DONE
+3) what is subject? DONE
+4) with the help of unicast  observable where to pass notification?
+5) Disposable?
