@@ -51,6 +51,9 @@
 * Explain Publishers and Subscribers in Events.
 * What is a Deadlock?
 * What is an XSD file?
+* what is anonymous functions?
+* explain static constructor and copy constructor?
+* constructor cannot be synchronized means?
 
 
 ## Html
